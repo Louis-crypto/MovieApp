@@ -3,7 +3,7 @@
     <color name="colorPrimary">#151c25</color>
     <color name="colorPrimaryDark">#151c25</color>
     <color name="colorAccent">#f1b814</color>
-    <color name="purple_200">#7F00FF</color>
+    <color name="purple_200">#ff0000</color>
     <color name="purple_700">#630330</color>
-    <color name="teal_200">#008080</color>
+    <color name="teal_200">#ff0000</color>
 </resources>
